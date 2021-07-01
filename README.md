@@ -21,3 +21,5 @@ This mod uses a system quite similar to the BP mod manager to spawn propPacks. T
 | Pack10 | |
 | Pack11 | |
 | Pack12 | |
+
+If you wish to make a PropPack, feel free to [submit an ID claim](https://github.com/samamstar/PropPack/issues/new?assignees=samamstar&labels=&template=id-request.md&title=ID+claim)
