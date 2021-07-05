@@ -11,7 +11,7 @@ This mod uses a system quite similar to the BP mod manager to spawn propPacks. T
 | Pack0 | Pacagma's spacerig decor |
 | Pack1 | Reserved for testing |
 | Pack2 | Steeve cage |
-| Pack3 | |
+| Pack3 | Extra promotion console|
 | Pack4 | |
 | Pack5 | |
 | Pack6 | |
